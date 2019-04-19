@@ -1,3 +1,3 @@
-# NODE-starter  
+# NODE-starter-graphql
 
-Simple starter application for a NodeJS REST api
+Simple starter application for a NodeJS REST api with graphql
